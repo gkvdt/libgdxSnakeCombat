@@ -1,0 +1,4 @@
+#Sat Jul 07 14:18:20 EET 2018
+base.0=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

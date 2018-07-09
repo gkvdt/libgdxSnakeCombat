@@ -1,0 +1,10 @@
+#Sat Jul 07 14:18:19 EET 2018
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.2=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.8_1af3f7eeaf21823d7716437cb104a4fdf664c078
+base.1=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.8_4cabca64edfafae4b336361bb66a62e182e7a51e
+base.0=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.8_d8250a9a85b9d9cdd063d4d376de6b797a421728
+file.2=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.8_1af3f7eeaf21823d7716437cb104a4fdf664c078/classes.dex
+file.1=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.8_4cabca64edfafae4b336361bb66a62e182e7a51e/classes.dex
+file.0=/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.8_d8250a9a85b9d9cdd063d4d376de6b797a421728/classes.dex
