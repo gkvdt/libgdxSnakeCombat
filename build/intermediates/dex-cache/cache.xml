@@ -20,6 +20,24 @@
         <dex dex="/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/pre-dexed/debug/gdx-1.9.8_4cabca64edfafae4b336361bb66a62e182e7a51e.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_981c89203f4223d3d8a1330c00a0d74851510915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f2594176e65daa7a8172f40332600874af6397e1">
+        <dex dex="/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_814ad3d22f0434e90601532c88138c3ae8223c4a/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/vedat/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/84024cd60ad6f26370891fbcd17de9f0167e662/gdx-backend-android-1.9.8.jar"
         jumboMode="false"
@@ -34,7 +52,7 @@
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="d861d8f530fc2f861f3d29e932c96ae7ffe9f217">
+        sha1="ec4ec1498ec45c329968f3631ef5f37a20563e4d">
         <dex dex="/home/vedat/Project/LibGdx/SnakeCombat/android/build/intermediates/pre-dexed/debug/core-1.0_3c257a8de1bdeef490a147d495bc673b5978e643.jar" />
     </item>
 

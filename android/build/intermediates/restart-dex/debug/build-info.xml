@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1530963318835"
+    timestamp="1539083443916"
     token="6301552996664429128"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1530963318835"
+        timestamp="1539083443916"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/vedat/Project/LibGdx/SnakeCombat/android/build/outputs/apk/android-debug.apk"

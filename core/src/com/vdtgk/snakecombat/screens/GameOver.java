@@ -12,7 +12,6 @@ public class GameOver implements Screen{
 	public GameOver(MainGame game){
 
 		game.setScreen(new MyGdxGame(game));
-
 		
 	}
 	
